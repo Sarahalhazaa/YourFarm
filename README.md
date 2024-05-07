@@ -9,16 +9,19 @@ In an era characterized by increasing awareness of the importance of preserving 
 
 # Class diagram:
 
-# Total project endpoints:52
+# Total project endpoints:55
 
-# My endpoints:
+# My endpoints:26
 - CRUD 
 - Order Plant
 - CreateCoupon
 - View New Plant Orders
+- Evaluation On Order Plant
+- Update plant orders
+- Update plant farmer
+- Update plant Specialist
 - View Current Plant Orders
 - View Previous Plant Orders
-- Evaluation On Order Plant
 - View New Contract Of Order Plant
 - View Current Contract Of Order Plant
 - View Previous Contract Of Order Plant
