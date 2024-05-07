@@ -12,7 +12,7 @@ In an era characterized by increasing awareness of the importance of preserving 
 # Total project endpoints:52
 
 # My endpoints:
-   CRUD 
+- CRUD 
 - Order Plant
 - CreateCoupon
 - View New Plant Orders
@@ -27,7 +27,8 @@ In an era characterized by increasing awareness of the importance of preserving 
 - View Previous Orders To Farmer
 - Evaluation On Order Farmer
 - New Orders To Specialist
-- View Current Orders To Specialist - View Previous Orders To Specialist 
+- View Current Orders To Specialist
+- View Previous Orders To Specialist 
 - View best Evaluation Of Farm  
 - View best Evaluation Of Farmer
 - View best Evaluation Of Specialist
