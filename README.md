@@ -13,29 +13,28 @@ In an era characterized by increasing awareness of the importance of preserving 
 
 # My endpoints:
    CRUD 
-1 - Order Plant
-2 - CreateCoupon
-3 - View New Plant Orders
-4- View Current Plant Orders
-5- View Previous Plant Orders
-6- Evaluation On Order Plant
-7- View New Contract Of Order Plant
-8- View Current Contract Of Order Plant
-9- View Previous Contract Of Order Plant
-10- View New Orders To Farmer
-11- View Current Orders To Farmer
-12- View Previous Orders To Farmer
-13- Evaluation On Order Farmer
-14- New Orders To Specialist
-15- View Current Orders To Specialist 
-16- View Previous Orders To Specialist 
-17- View best Evaluation Of Farm  
-18- View best Evaluation Of Farmer
-19- View best Evaluation Of Specialist
-20- View best Sales
-21- Evaluation On Order Guidance
-22- View Plant Of Farm 
-23- View Plant By Type
+- Order Plant
+- CreateCoupon
+- View New Plant Orders
+- View Current Plant Orders
+- View Previous Plant Orders
+- Evaluation On Order Plant
+- View New Contract Of Order Plant
+- View Current Contract Of Order Plant
+- View Previous Contract Of Order Plant
+- View New Orders To Farmer
+- View Current Orders To Farmer
+- View Previous Orders To Farmer
+- Evaluation On Order Farmer
+- New Orders To Specialist
+- View Current Orders To Specialist - View Previous Orders To Specialist 
+- View best Evaluation Of Farm  
+- View best Evaluation Of Farmer
+- View best Evaluation Of Specialist
+- View best Sales
+- Evaluation On Order Guidance
+- View Plant Of Farm 
+- View Plant By Type
 
 # Our team:
 - Sara Nasser Alhazaa
