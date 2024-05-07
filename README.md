@@ -8,6 +8,7 @@ In an era characterized by increasing awareness of the importance of preserving 
 ![description](https://cdn.discordapp.com/attachments/1234214915905032257/1237335052321423381/731D2124-CC60-47DA-BCC9-31D9CF97F912_1_105_c.jpeg?ex=663b4591&is=6639f411&hm=f09773a71d22fe59644c36e61a3f418054d7ee80a31c5999d7b06794fefaf05d&)
 
 # Class diagram:
+![description](https://cdn.discordapp.com/attachments/1234214915905032258/1237540346972602459/D7D579F4-BF13-4288-9C32-FD2CB42E1FAE.png?ex=663c04c3&is=663ab343&hm=22eceb999247825e9e5bc53a12fab84968c94359cb0eb823d2edeebdf37f866d&)
 
 # Total project endpoints:55
 
