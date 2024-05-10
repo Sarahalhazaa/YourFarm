@@ -53,6 +53,9 @@ In an era characterized by increasing awareness of the importance of preserving 
 - MySQL Driver
 - Spring Data JPA
 - Spring Security
+
+# Figma:
+https://www.figma.com/design/Nq5edgJVs8shJqUV7fZCtJ/Farm-website?node-id=570%3A438&t=GUTqeMjRImrO8Fs1-1
    
 # Email:
 sarahalhazaa2000@gmail.com
