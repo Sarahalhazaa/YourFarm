@@ -54,6 +54,9 @@ In an era characterized by increasing awareness of the importance of preserving 
 - Spring Data JPA
 - Spring Security
 
+# Postman Documentation:
+https://documenter.getpostman.com/view/25544157/2sA3JKc29B#9315701a-08be-447c-a529-88e3e1b2497b
+
 # Figma:
 https://www.figma.com/design/Nq5edgJVs8shJqUV7fZCtJ/Farm-website?node-id=570%3A438&t=GUTqeMjRImrO8Fs1-1
    
