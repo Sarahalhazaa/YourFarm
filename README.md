@@ -59,6 +59,9 @@ https://documenter.getpostman.com/view/25544157/2sA3JKc29B#9315701a-08be-447c-a5
 
 # Figma:
 https://www.figma.com/design/Nq5edgJVs8shJqUV7fZCtJ/Farm-website?node-id=570%3A438&t=GUTqeMjRImrO8Fs1-1
+
+# Presentation:
+https://www.canva.com/design/DAGEfqykIek/coZOJ0nR08OhZsNx1ioRVQ/view?utm_content=DAGEfqykIek&utm_campaign=designshare&utm_medium=link&utm_source=editor
    
 # Email:
 sarahalhazaa2000@gmail.com
